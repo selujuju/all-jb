@@ -10,7 +10,7 @@ A curated archive of prompt-injection, jailbreak, persona-conditioning, and resp
 
 This repository organizes experimental prompts that attempt to alter model behavior, override instruction hierarchies, impose unusual response formats, or expose differences between model configurations. The collection is intentionally preserved as a practical corpus for researchers, evaluators, and developers who want to study robustness rather than rely on anecdotal claims.
 
-The archive currently contains **15 prompt files** spanning DeepSeek, Gemini, GLM, Grok, Kimi, Qwen, Sonnet, and ChatGPT-oriented experiments. Files are kept close to their original form so that provenance and reproducibility are not lost.
+The archive currently contains **19 prompt files** spanning DeepSeek, Gemini, GLM, Grok, Kimi, Qwen, Sonnet, ChatGPT, and other model-oriented experiments. Files are kept close to their original form so that provenance and reproducibility are not lost.
 
 ## Research themes
 
@@ -51,9 +51,13 @@ The archive currently contains **15 prompt files** spanning DeepSeek, Gemini, GL
 | `3rd deepseek` | DeepSeek | Plain text |
 | `antigravity jb.txt` | Antigravity | Plain text |
 | `better jb deepseek` | DeepSeek | Plain text |
+| `Auto JB Maker - Weaker Models.txt` | Model-agnostic (card maker) | Plain text |
 | `chatgptjb.txt` | ChatGPT | Plain text |
+| `DaVinci Codex Sonnet 4.6 Jailbreak.txt` | Sonnet | Plain text |
 | `deepseek thinking` | DeepSeek | Plain text |
 | `deepseek v4` | DeepSeek | Plain text |
+| `Deepseek V4 Jailbreak.txt` | DeepSeek | Plain text |
+| `Deepseek V4 Universal App Jailbreak.txt` | DeepSeek | Plain text |
 | `deepseekjb.txt` | DeepSeek | Plain text |
 | `gem gemini 3.5 AND 3.6` | Gemini | Plain text |
 | `glm 5.3` | GLM | Plain text |
