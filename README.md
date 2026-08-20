@@ -14,6 +14,8 @@ The archive currently contains **19 prompt files** spanning DeepSeek, Gemini, GL
 
 ## Research themes
 
+add jujulesseluj on discord if you are searching a specific ai prompt !
+
 | Theme | What to look for | Related files |
 | --- | --- | --- |
 | Instruction hierarchy | Attempts to replace, reorder, or supersede higher-priority instructions | `3rd deepseek`, `better jb deepseek`, `deepseekjb.txt`, `grok jb` |
